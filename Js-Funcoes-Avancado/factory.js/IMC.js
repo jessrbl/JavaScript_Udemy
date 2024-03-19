@@ -1,5 +1,4 @@
 // Factory function (Função fábrica)
-// Constructor function (Função construtora)
 function criaPessoa(nome, sobrenome, a, p) {
     return {
       nome,

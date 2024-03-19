@@ -9,3 +9,4 @@ const fala = falaFrase('Olá')
 const resto = fala('mundo!')
 
 console.log(resto)
+
